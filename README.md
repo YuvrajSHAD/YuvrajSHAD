@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yuvraj-singh-547b461b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuvraj-singh-547b461b2/" height="30" width="40" /></a>
 <a href="https://instagram.com/y.uvraj.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y.uvraj.singh" height="30" width="40" /></a>
 </p>
-<h3 align="left">Social Profile On:</h3>
+<h3 align="left">Social Profile On: Deleted My Accounts [Might Create New in Future]</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yuvraj-singh-547b461b2/" target="_blank">Linkedin</a>
 <a href="https://codedamn.com/user/YuvrajSHAD" target="blank">Codedamn</a>
