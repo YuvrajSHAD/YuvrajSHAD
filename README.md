@@ -1,13 +1,13 @@
 ### Welc0me T0 My P3ofile 👋
 
 - 🔭 I’m currently working on ...Portfolio
-- 🌱 I’m currently learning ...ReactJS
+- 🌱 I’m currently learning ...Pentesting
 - 👯 I’m looking to collaborate on ...FrontEnd
-- 🤔 I’m looking for help with ...Database Linking with React Applicatiion
-- 💬 Ask me about ...Video Games and Web Development
+- 🤔 I’m looking for help with ...Best FrameWork to Work with for Frontend
+- 💬 Ask me about ...Video Games and Web Development & Cyber Security
 - 📫 How to reach me: ...{Few Minutes- yuvraj0938.be20@chitkara.edu.in}
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I Am Gemini
+- ⚡ Fun fact: ... I am not a King! I am not a God! I am One Piece Fan.
 
 <br>
 <h1 align="center">Hello 👋, I'm Yuvraj Singh</h1>
