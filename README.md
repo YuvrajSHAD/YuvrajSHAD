@@ -1,11 +1,11 @@
-### Welc0me T0 My P3ofile 👋
+### Welcome To My Profile 👋
 
 - 🔭 I’m currently working on ...Portfolio
-- 🌱 I’m currently learning ...Pentesting
-- 👯 I’m looking to collaborate on ...FrontEnd
-- 🤔 I’m looking for help with ...Best FrameWork to Work with for Frontend
+- 🌱 I’m currently learning ...Pentesting, JS, AWS
+- 👯 I’m looking to collaborate on ...Blog Writing
+- 🤔 I’m looking for help with ...DSA
 - 💬 Ask me about ...Video Games and Web Development & Cyber Security
-- 📫 How to reach me: ...{Few Minutes- yuvraj0938.be20@chitkara.edu.in}
+- 📫 How to reach me: ...{- yuvraj0938.be20@chitkara.edu.in}
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am not a King! I am not a God! I am One Piece Fan.
 
