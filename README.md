@@ -1,9 +1,9 @@
 ### Welcome To My Profile 👋
 
 - 🔭 I’m currently working on ...Portfolio
-- 🌱 I’m currently learning ...Pentesting, JS
-- 👯 I’m looking to collaborate on ...Blog Writing
-- 🤔 I’m looking for help with ...DSA 😭
+- 🌱 I’m currently learning ...Pentesting, Metasploit, Assembly Language
+- 👯 I’m looking to collaborate on ...Writeups 
+- 🤔 I’m looking for help with ...Reverse Engineering
 - 💬 Ask me about ...Video Games and Web Development & Cyber Security
 - 📫 How to reach me: ...{- yuvrajsingh302@outlook.com}
 - 😄 Pronouns: ... He/Him
