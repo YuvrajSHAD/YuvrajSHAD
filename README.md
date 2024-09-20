@@ -34,4 +34,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YuvrajSHAD&show_icons=true&locale=en&layout=compact" alt="YuvrajSHAD" /></p>
 <img align="right" width="320" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"><br>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuvrajSHAD&show_icons=true&locale=en" alt="YuvrajSHAD" /></p>
+<!--<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=YuvrajSHAD&show_icons=true&locale=en" alt="YuvrajSHAD" /></p> -->
