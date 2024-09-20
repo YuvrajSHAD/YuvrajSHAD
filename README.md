@@ -11,7 +11,7 @@
 
 <br>
 <h1 align="center">Hello 👋, I'm Yuvraj Singh</h1>
-<h3 align="center">Student At Chitkara University</h3>
+<h3 align="center">Graduated B.E CSE</h3>
 <!-- All Seperate-->
 <p align="left"> <a href="https://twitter.com/Y3vrajsingh" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
