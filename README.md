@@ -1,13 +1,13 @@
 ### Welcome To My Profile 👋
 
-- 🔭 I’m currently working on ...Portfolio
-- 🌱 I’m currently learning ...Pentesting, Metasploit, Assembly Language
-- 👯 I’m looking to collaborate on ...Writeups 
-- 🤔 I’m looking for help with ...Reverse Engineering
-- 💬 Ask me about ...Video Games and Web Development & Cyber Security
+- 🔭 I’m currently working on ...Budilding Skills for Pentester Role.
+- 🌱 I’m currently learning ...Active Directory
+- 👯 I’m looking to collaborate on ...Writeups for HTB, TryHackMe & vuln Machines. 
+- 🤔 I’m looking for help with ...SOAR.
+- 💬 Ask me about ...I am interested in Everything, just not people.
 - 📫 How to reach me: ...{- yuvrajsingh302@outlook.com}
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... True Freedom according to me is how and where i want to die. ✌️
+- ⚡ Philosiphy: ... You are free when you accept everything as it is OR reject everything as it is. ✌️
 
 <br>
 <h1 align="center">Hello 👋, I'm Yuvraj Singh</h1>
