@@ -1,23 +1,20 @@
 ### Welcome To My Profile 👋
 
-- 🔭 I’m currently working on ...Budilding Skills for Pentester Role.
-- 🌱 I’m currently learning ...Active Directory
-- 👯 I’m looking to collaborate on ...Writeups for HTB, TryHackMe & vuln Machines. 
-- 🤔 I’m looking for help with ...SOAR.
-- 💬 Ask me about ...I am interested in Everything, just not people.
-- 📫 How to reach me: ...{- yuvrajsingh302@outlook.com}
-- 😄 Pronouns: ... He/Him
-- ⚡ Philosiphy: ... You are free when you accept everything as it is OR reject everything as it is. ✌️
+- 🔭 I’m currently on the path of Cyber Security Exploration.
+- 🌱 I’m currently learning Active Directory (Pretty Messed Up Stuff)
+- 👯 I’m looking for internship in Cyber Security. 
+- 💬 Ask me about Everything. (It either I know or I don't)
+- 📫 How to reach me: {- yuvrajsingh302@outlook.com}
+- 😄 Pronouns: He/Him
+- ⚡ Philosiphy: Remove Your Expectations.
 
 <br>
 <h1 align="center">Hello 👋, I'm Yuvraj Singh</h1>
-<h3 align="center">Graduated B.E CSE</h3>
+<h3 align="center">Graduated B.E CSE (2024) - 9.18 C.G.P.A</h3>
 <!-- All Seperate-->
 <p align="left"> <a href="https://twitter.com/Y3vrajsingh" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 📝 I regularly - Not Telling You XD!
-
-- 📫 How to reach me **yuvrajsingh302@outlook.com**
+- 📝 I regularly - Train.
 
 <!-- Tools -->
 <h3 align="left">Languages and Tools:</h3>
