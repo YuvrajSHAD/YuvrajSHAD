@@ -1,3 +1,5 @@
+Email: yuvrajsingh302@outlook.com
+
 ### "Experience"
 
 Professional breaker and fixer of digital things. Documentation is gospel—way better than those YouTube tutorials that spend 5 minutes on intros and the next 10 on wasting your time.  
